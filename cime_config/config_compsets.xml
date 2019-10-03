@@ -271,6 +271,15 @@
     <lname>2000_DATM%NLDAS2_CLM50%NWP-SP_SICE_SOCN_SROF_SGLC_SWAV</lname>
   </compset>
 
+
+  <!-- NLDAS datm forcing, for regional runs over the CONUS, e.g., using
+       the nldas grid; Compset for Sits_Phase1Experiments -->
+  <compset>
+    <alias>I2000Clm50SpNldasGs</alias>
+    <lname>2000_DATM%NLDAS2_CLM50%SP_SICE_SOCN_MOSART_SGLC_SWAV</lname>
+  </compset>
+
+
 <!-- I CLM45 Compsets -->
 
   <compset>
